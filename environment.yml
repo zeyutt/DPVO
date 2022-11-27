@@ -103,7 +103,6 @@ dependencies:
   - python=3.10.0=h12debd9_5
   - python-dateutil=2.8.2=pyhd3eb1b0_0
   - python_abi=3.10=2_cp310
-  - pytorch=1.12.0=py3.10_cuda11.3_cudnn8.3.2_0
   - pytorch-mutex=1.0=cuda
   - pytorch-scatter=2.0.9=py310_torch_1.12.0_cu113
   - pyu2f=0.1.5=pyhd8ed1ab_0
@@ -121,8 +120,6 @@ dependencies:
   - tensorboard-data-server=0.6.0=py310h597c629_2
   - tensorboard-plugin-wit=1.8.1=pyhd8ed1ab_0
   - tk=8.6.12=h1ccaba5_0
-  - torchaudio=0.12.0=py310_cu113
-  - torchvision=0.13.0=py310_cu113
   - tornado=6.1=py310h7f8727e_0
   - tqdm=4.64.0=py310h06a4308_0
   - typing-extensions=4.1.1=hd3eb1b0_0
